@@ -1,0 +1,2 @@
+# Analysis of stromal regions in lung cancer
+This script was developed to investigate regions identified as tertiary lymphoid structures (TLSs) and compare them to non-TLS regions using image and spatial data of immunofluorescently stained FFPE slides.
